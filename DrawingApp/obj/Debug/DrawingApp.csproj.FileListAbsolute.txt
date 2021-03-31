@@ -1,0 +1,15 @@
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csprojAssemblyReference.cache
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\MainWindow.g.cs
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\App.g.cs
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp_MarkupCompile.cache
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp_MarkupCompile.lref
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\MainWindow.baml
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.g.resources
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\noobg\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.pdb
